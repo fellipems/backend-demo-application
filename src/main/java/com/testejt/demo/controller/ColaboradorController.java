@@ -2,7 +2,7 @@ package com.testejt.demo.controller;
 
 import com.testejt.demo.business.ColaboradorBusiness;
 import com.testejt.demo.dto.ChefeSubordinado;
-import com.testejt.demo.entity.Colaborador;
+import com.backend.entity.Colaborador;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
